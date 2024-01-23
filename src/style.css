@@ -1,0 +1,54 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #000;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+}
+.app {
+  color: #2a2a55;
+  margin-bottom: 20px;
+  font-size: 50px;
+  font-weight: 900;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+.counter {
+  background: #000;
+  height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+  border-radius: 20px;
+}
+.container .number {
+  font-size: 6rem;
+}
+
+.btns-container {
+  width: 40rem;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5rem;
+}
+
+.increment {
+  padding: 10px 20px;
+  border-radius: 50%;
+  font-size: 3rem;
+  background: #1f1f3a;
+  color: #fff;
+  cursor: pointer;
+}
