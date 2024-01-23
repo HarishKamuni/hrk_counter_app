@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hrk_counter_app/static/css/main.42f240ae.css",
+    "main.js": "/hrk_counter_app/static/js/main.faf556f0.js",
+    "index.html": "/hrk_counter_app/index.html",
+    "main.42f240ae.css.map": "/hrk_counter_app/static/css/main.42f240ae.css.map",
+    "main.faf556f0.js.map": "/hrk_counter_app/static/js/main.faf556f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42f240ae.css",
+    "static/js/main.faf556f0.js"
+  ]
+}
